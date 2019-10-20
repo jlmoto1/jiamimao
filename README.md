@@ -58,7 +58,7 @@
 
 ## 你们这个网站有没有备用的网址?
 
-如果您所在的国家屏蔽了这个网站，您可以通过下面2个备用的https协议网址进行访问。https://jiamimao.runkodapps.com/ 和 https://jiamimao.hashbase.io 。另外，我们也支持p2p Dat协议，您可以下载beaker浏览器,在地址栏输入 dat://214f50845d6414a06e6dc490bf163ac15319071d8ffb20bf75e580c579cf796f/
+如果您所在的国家屏蔽了这个网站，您可以通过下面2个备用的https协议网址进行访问。https://cryptcat.runkodapps.com/ 和 https://jiamimao.hashbase.io 。另外，我们也支持p2p Dat协议，您可以下载beaker浏览器,在地址栏输入 dat://214f50845d6414a06e6dc490bf163ac15319071d8ffb20bf75e580c579cf796f/
 
   
 
