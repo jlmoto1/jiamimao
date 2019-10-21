@@ -8,6 +8,10 @@
 
 # 一般问题
 
+## 这个软件是做什么用的？
+
+您可以用这个软件来加密任何格式的文件，例如您电脑里面的视频、pdf文档、图片等等。加密后，任何人就无法打开这个加密后的文件，无法知道这个加密文件的内容，除非知道密码的本人。如果您的数据没有被提前加密而上传到第三方网盘（例如dropbox、google drive、百度网盘）时，您的数据内容直接会暴露给这些公司。所以，我们强烈建议您的一些重要文件一定要进行强加密，这样才能保障您的数据安全。
+
 ## 如果有一天你这个网站倒闭了，我到哪里去解密我的文件？
 
 **完全不用担心.** 我们的软件源代码是100%开源的，类似nginx和wikipedia这类的软件一样。打个比方，就好像我们把一道菜的制作方法给公开了，你可以把这道菜的制作方法（源代码）下载到您本地的电脑，不用链接互联网，本地点击运行文件夹里面的index.html文件即可.如果某一天该网站倒闭或者被某些国家的防火墙屏蔽，你只需要保存好该软件的离线源代码即可。
@@ -58,10 +62,13 @@
 
 ## 你们这个网站有没有备用的网址?
 
-如果您所在的国家屏蔽了这个网站，您可以通过下面2个备用的https协议网址进行访问。https://cryptcat.runkodapps.com 或者https://jiamimao.hashbase.io 。另外，我们也支持p2p Dat协议，您可以下载beaker浏览器,在地址栏粘贴： dat://jiamimao.hashbase.io 或者dat://214f50845d6414a06e6dc490bf163ac15319071d8ffb20bf75e580c579cf796f
+如果您所在的国家屏蔽了这个网站，您可以通过下面3个备用的https协议网址进行访问。https://cryptocat.runkodapps.com/ 和 https://jiamimao.hashbase.io  和 https://jiamimao.netlify.com/ 。另外，我们也支持p2p Dat协议，您可以下载beaker浏览器,在地址栏粘贴： dat://214f50845d6414a06e6dc490bf163ac15319071d8ffb20bf75e580c579cf796f/ 或者 dat://jiamimao.hashbase.io/
 
   
 
 ## 既然是免费开源软件，你们如何盈利、维持该网站的正常运行?
 
 我们的运营和盈利模式类似于mariadb、docker和openresty这类的开源软件，提供定制开发和技术服务支持。如果您需要开发特殊的客户端或者其他功能，我们会收取一定的开发服务费用，您可以到github上联系我们，或者发邮件到Corydonbyte@protonmail.com
+
+## 从哪里可以得到该软件的最新版本和功能?
+我们是一个开源软件，github地址是：https://github.com/Corydonbyte/jiamimao  您可以收藏这个github地址。这样您就可以知道该软件的最新动态,我们最新的操作教程会发布在这里：https://github.com/Corydonbyte/jiamimao/wiki。
